@@ -1,2 +1,5 @@
 # my-f3-check
-Check file-system and hardware of storage devices
+
+Simple HDD, SSD, USB-Stick, etc. test for consistency and anti fraud. 
+
+Checks file-system and hardware of storage devices.
